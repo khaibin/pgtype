@@ -3,8 +3,8 @@ package zeronull_test
 import (
 	"testing"
 
-	"github.com/jackc/pgtype/testutil"
-	"github.com/jackc/pgtype/zeronull"
+	"github.com/khaibin/pgtype/testutil"
+	"github.com/khaibin/pgtype/zeronull"
 )
 
 func TestInt2Transcode(t *testing.T) {

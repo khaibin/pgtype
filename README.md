@@ -1,4 +1,4 @@
-[![](https://godoc.org/github.com/jackc/pgtype?status.svg)](https://godoc.org/github.com/jackc/pgtype)
+[![](https://godoc.org/github.com/khaibin/pgtype?status.svg)](https://godoc.org/github.com/khaibin/pgtype)
 
 # pgtype
 

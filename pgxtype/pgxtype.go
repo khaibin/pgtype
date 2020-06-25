@@ -5,7 +5,7 @@ import (
 	"errors"
 
 	"github.com/jackc/pgconn"
-	"github.com/jackc/pgtype"
+	"github.com/khaibin/pgtype"
 	"github.com/jackc/pgx/v4"
 )
 

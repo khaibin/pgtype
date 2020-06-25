@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/jackc/pgtype"
-	"github.com/jackc/pgtype/testutil"
+	"github.com/khaibin/pgtype"
+	"github.com/khaibin/pgtype/testutil"
 )
 
 func TestUUIDTranscode(t *testing.T) {

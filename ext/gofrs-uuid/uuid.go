@@ -6,7 +6,7 @@ import (
 	errors "golang.org/x/xerrors"
 
 	"github.com/gofrs/uuid"
-	"github.com/jackc/pgtype"
+	"github.com/khaibin/pgtype"
 )
 
 var errUndefined = errors.New("cannot encode status undefined")

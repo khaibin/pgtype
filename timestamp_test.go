@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jackc/pgtype"
-	"github.com/jackc/pgtype/testutil"
+	"github.com/khaibin/pgtype"
+	"github.com/khaibin/pgtype/testutil"
 )
 
 func TestTimestampTranscode(t *testing.T) {

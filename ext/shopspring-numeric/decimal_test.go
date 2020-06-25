@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/jackc/pgtype"
-	shopspring "github.com/jackc/pgtype/ext/shopspring-numeric"
-	"github.com/jackc/pgtype/testutil"
+	"github.com/khaibin/pgtype"
+	shopspring "github.com/khaibin/pgtype/ext/shopspring-numeric"
+	"github.com/khaibin/pgtype/testutil"
 	"github.com/shopspring/decimal"
 	"github.com/stretchr/testify/require"
 )
